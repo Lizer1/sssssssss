@@ -819,6 +819,6 @@ message.channel.stopTyping()
 }
 });
 
-client.login(NTM5MDg0Njc4NzIwOTEzNDA4.DzI7xQ.m5nA1kaGpMMBqR04W0CcmRBZ87A);
+client.login(process.env.BOT_TOKEN);
 
 
